@@ -76,11 +76,13 @@ Or use [Anaconda](https://www.anaconda.com/products/distribution) for a complete
 
 ---
 
-## 📜 License
+### License
 
-MIT License – Free to use with credit.
+The project is proprietary and is not open source. All rights are reserved.
 
----
+```
+© 2024. All rights reserved.
+```
 
 ## 👤 Author
 
